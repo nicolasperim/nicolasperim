@@ -11,4 +11,4 @@ Sou estudante de Ciência da Computação e desenvolvedor em evolução. Atualme
 - **Ferramentas:** Git, GitHub, VS Code
 
 ---
-📫 Como me encontrar: www.linkedin.com/in/nicolasperim19
+📫 Como me encontrar: www.linkedin.com/in/nicolasperim
